@@ -3,7 +3,7 @@
 A Java-based simulation engine for the strategy board game Risk, plus a lightweight web visualizer (HTML/CSS/JS) to explore simulation results and player performance.
 
 ## Live Demo
-Web Visualizer: https://aboodalashal03.github.io/RISK-Game/
+Web Visualizer: https://abdelrahmanalashel.github.io/RISK-Game/
 
 ---
 
